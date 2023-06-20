@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\ritur\OneDrive\Desktop\Universal\DriveFiles\PharmacyStore\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3822155536.index
+2432144520.index
+1157603825.index
+1205689956.index
+1772117555.index
+1029825333.index

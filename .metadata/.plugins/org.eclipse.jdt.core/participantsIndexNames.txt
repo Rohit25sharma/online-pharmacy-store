@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\ritur\OneDrive\Desktop\Universal\DriveFiles\PharmacyStore\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2564200039.index
+\PharmacyStore\src
